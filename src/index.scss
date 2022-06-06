@@ -1,0 +1,29 @@
+@import '~office-ui-fabric-core/dist/css/fabric.min.css';
+@import './styles/base.scss';
+@import './styles/variables.scss';
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Tip: Customize the transition duration of the theme
+        You can also add other attributes you are using the theme with
+        or 
+        You can completely remove to instantly change the theme
+*/
+*,
+::before,
+::after {
+  transition: color 0.25s, background-color 0.25s, filter 0.25s,
+    border-color 0.25s;
+}

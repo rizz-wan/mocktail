@@ -1,0 +1,9 @@
+@import '../../../styles/variables.scss';
+// Tip: Add the styles common to common components here
+.styled-Button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 4px;
+  border-radius: 4px;
+}

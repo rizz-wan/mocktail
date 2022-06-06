@@ -1,0 +1,1242 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot tests Should render home page 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="ms-Stack container css-112"
+      >
+        <div
+          class="ms-Image root-113"
+          style="width: 100%;"
+        >
+          <img
+            class="ms-Image-image ms-Image-image--portrait is-notLoaded is-fadeIn image-114"
+            loading="lazy"
+            src="mocktail.png"
+          />
+        </div>
+        <div
+          class="root-115"
+        >
+          <div
+            aria-orientation="horizontal"
+            class="content-116"
+            role="separator"
+          />
+        </div>
+        <div
+          class="ms-Stack css-118"
+        >
+          <div
+            class="ms-Stack-inner css-117"
+          >
+            <div
+              class="ms-StackItem css-119"
+            >
+              <a
+                class="ms-Button ms-Button--primary styled-Button root-120"
+                data-is-focusable="true"
+                href="https://github.com/rizz-wan/mocktail/archive/refs/heads/master.zip"
+                rel="noreferrer noopener"
+                target="_blank"
+              >
+                <span
+                  class="ms-Button-flexContainer flexContainer-121"
+                  data-automationid="splitbuttonprimary"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="ms-Icon root-105 ms-Button-icon icon-123"
+                    data-icon-name="CloudDownload"
+                  />
+                  <span
+                    class="ms-Button-textContainer textContainer-122"
+                  >
+                    <span
+                      class="ms-Button-label label-124"
+                      id="id__0"
+                    >
+                      Download
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+            <div
+              class="ms-StackItem css-119"
+            >
+              <a
+                class="ms-Button ms-Button--default styled-Button root-128"
+                data-is-focusable="true"
+                href="https://github.com/rizz-wan/mocktail#mocktail"
+                rel="noreferrer noopener"
+                target="_blank"
+              >
+                <span
+                  class="ms-Button-flexContainer flexContainer-121"
+                  data-automationid="splitbuttonprimary"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="ms-Icon root-105 ms-Button-icon icon-123"
+                    data-icon-name="Documentation"
+                  />
+                  <span
+                    class="ms-Button-textContainer textContainer-122"
+                  >
+                    <span
+                      class="ms-Button-label label-124"
+                      id="id__3"
+                    >
+                      Documentation
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+            <div
+              class="ms-StackItem css-119"
+            >
+              <a
+                class="ms-Button ms-Button--primary styled-Button root-120"
+                data-is-focusable="true"
+                href="https://github.com/rizz-wan/mocktail"
+                rel="noreferrer noopener"
+                target="_blank"
+              >
+                <span
+                  class="ms-Button-flexContainer flexContainer-121"
+                  data-automationid="splitbuttonprimary"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="ms-Icon root-105 ms-Button-icon icon-123"
+                    data-icon-name="OpenSource"
+                  />
+                  <span
+                    class="ms-Button-textContainer textContainer-122"
+                  >
+                    <span
+                      class="ms-Button-label label-124"
+                      id="id__6"
+                    >
+                      Source
+                    </span>
+                  </span>
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="root-115"
+        >
+          <div
+            aria-orientation="horizontal"
+            class="content-116"
+            role="separator"
+          />
+        </div>
+        <h2>
+          Bundled Enhancements
+        </h2>
+        <ul
+          class="css-111"
+        >
+          <li>
+            <a
+              class="ms-Link root-129"
+              href="https://www.typescriptlang.org/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                Typescript
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             enabled for better dev experience.
+          </li>
+          <li>
+            With 
+            <a
+              class="ms-Link root-129"
+              href="https://developer.microsoft.com/en-us/fluentui#/controls/web"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                Fluent UI's
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             robust, up-to-date web controls, save yourself from creating atomic and molecular UI controls from scratch.
+          </li>
+          <li>
+            <a
+              class="ms-Link root-129"
+              href="https://uifabricicons.azurewebsites.net/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                Office UI Fabric Icons
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             support to get access to huge set of awesome icons.
+          </li>
+          <li>
+            With 
+            <a
+              class="ms-Link root-129"
+              href="https://www.npmjs.com/package/sass-loader"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                sass-loader
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             load a Sass/SCSS file and compiles it to CSS.
+          </li>
+          <li>
+            <a
+              class="ms-Link root-129"
+              href="https://aka.ms/themedesigner"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                Theming
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             infra.
+          </li>
+          <li>
+            Uses 
+            <a
+              class="ms-Link root-129"
+              href="https://www.npmjs.com/package/sass-loader"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                React Helmet
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             to add customized headers for each page, if required, for better SEO.
+          </li>
+          <li>
+            With 
+            <a
+              class="ms-Link root-129"
+              href="https://www.npmjs.com/package/react-router-dom"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                React Router DOM
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             use the power of 
+            <a
+              class="ms-Link root-129"
+              href="https://reactrouter.com/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                React Router
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             in web.
+          </li>
+          <li>
+            A Predictable, performant and flexible state container using 
+            <a
+              class="ms-Link root-129"
+              href="https://www.npmjs.com/package/react-redux"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                react-redux
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+            .
+          </li>
+          <li>
+            Dynamically load redux reducers and redux-saga sagas as needed, instead of loading them all upfront using 
+            <a
+              class="ms-Link root-129"
+              href="https://www.npmjs.com/package/redux-injectors"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                redux-injectors
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+            .
+          </li>
+          <li>
+            <a
+              class="ms-Link root-129"
+              href="https://www.npmjs.com/package/connected-react-router"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                Connected React Router
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             to synchronize your router state with redux store.
+          </li>
+          <li>
+            App level store with useful enhancers and middleware such as 
+            <a
+              class="ms-Link root-129"
+              href="https://redux-saga.js.org/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                Redux-Saga
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             and 
+            <a
+              class="ms-Link root-129"
+              href="https://www.npmjs.com/package/redux-logger"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                Logger for Redux
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+            .
+          </li>
+          <li>
+            Configured completely to be a first-class 
+            <a
+              class="ms-Link root-129"
+              href="https://developers.google.com/web/progressive-web-apps/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                Progressive Web App
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+            , however the 
+            <strong>
+              offline/cache-first
+            </strong>
+             behavior is disabled by default as it comes with some 
+            <a
+              class="ms-Link root-129"
+              href="https://github.com/facebook/create-react-app/issues/2398"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                pitfalls
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             and should be enabled consciously.
+            <div
+              class="ms-MessageBar ms-MessageBar-multiline my-2 root-130"
+            >
+              <div
+                class="ms-MessageBar-content content-131"
+              >
+                <div
+                  aria-hidden="true"
+                  class="ms-MessageBar-icon iconContainer-132"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="icon-139"
+                    data-icon-name="Info"
+                  />
+                </div>
+                <div
+                  aria-live="polite"
+                  class="ms-MessageBar-text text-134"
+                  id="MessageBar9"
+                  role="status"
+                >
+                  <span
+                    class="ms-MessageBar-innerText innerText-135"
+                  />
+                </div>
+              </div>
+            </div>
+          </li>
+          <li>
+            A performance relayer, using 
+            <a
+              class="ms-Link root-129"
+              href="https://github.com/GoogleChrome/web-vitals"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                web-vitals
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+            , that allows you to measure and analyze the performance of your application using different metrics.
+            <div
+              class="ms-MessageBar ms-MessageBar-multiline my-2 root-130"
+            >
+              <div
+                class="ms-MessageBar-content content-131"
+              >
+                <div
+                  aria-hidden="true"
+                  class="ms-MessageBar-icon iconContainer-132"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="icon-139"
+                    data-icon-name="Info"
+                  />
+                </div>
+                <div
+                  aria-live="polite"
+                  class="ms-MessageBar-text text-134"
+                  id="MessageBar10"
+                  role="status"
+                >
+                  <span
+                    class="ms-MessageBar-innerText innerText-135"
+                  />
+                </div>
+              </div>
+            </div>
+          </li>
+          <li>
+            World class testing environment with 
+            <a
+              class="ms-Link root-129"
+              href="https://jestjs.io/"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                jest
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+            , 
+            <a
+              class="ms-Link root-129"
+              href="https://github.com/testing-library/jest-dom#with-typescript"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                jest-dom
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             and 
+            <a
+              class="ms-Link root-129"
+              href="https://testing-library.com/docs/react-testing-library/intro"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <strong>
+                react testing library
+              </strong>
+              <i
+                aria-hidden="true"
+                class="ms-Icon root-105"
+                data-icon-name="NavigateExternalInline"
+              />
+            </a>
+             for faster and reliable development.
+          </li>
+        </ul>
+        <div
+          class="root-115"
+        >
+          <div
+            aria-orientation="horizontal"
+            class="content-116"
+            role="separator"
+          />
+        </div>
+        <div
+          class="ms-StackItem css-140"
+        >
+          <h2>
+            Want to contribute?
+          </h2>
+        </div>
+        <a
+          class="ms-Button ms-Button--primary styled-Button root-120"
+          data-is-focusable="true"
+          href="https://github.com/rizz-wan/mocktail#feedback--contribution"
+          rel="noreferrer noopener"
+          target="_blank"
+        >
+          <span
+            class="ms-Button-flexContainer flexContainer-121"
+            data-automationid="splitbuttonprimary"
+          >
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105 ms-Button-icon icon-123"
+              data-icon-name="CodeEdit"
+            />
+            <span
+              class="ms-Button-textContainer textContainer-122"
+            >
+              <span
+                class="ms-Button-label label-124"
+                id="id__11"
+              >
+                Start Contributing
+              </span>
+            </span>
+          </span>
+        </a>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="ms-Stack container css-112"
+    >
+      <div
+        class="ms-Image root-113"
+        style="width: 100%;"
+      >
+        <img
+          class="ms-Image-image ms-Image-image--portrait is-notLoaded is-fadeIn image-114"
+          loading="lazy"
+          src="mocktail.png"
+        />
+      </div>
+      <div
+        class="root-115"
+      >
+        <div
+          aria-orientation="horizontal"
+          class="content-116"
+          role="separator"
+        />
+      </div>
+      <div
+        class="ms-Stack css-118"
+      >
+        <div
+          class="ms-Stack-inner css-117"
+        >
+          <div
+            class="ms-StackItem css-119"
+          >
+            <a
+              class="ms-Button ms-Button--primary styled-Button root-120"
+              data-is-focusable="true"
+              href="https://github.com/rizz-wan/mocktail/archive/refs/heads/master.zip"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <span
+                class="ms-Button-flexContainer flexContainer-121"
+                data-automationid="splitbuttonprimary"
+              >
+                <i
+                  aria-hidden="true"
+                  class="ms-Icon root-105 ms-Button-icon icon-123"
+                  data-icon-name="CloudDownload"
+                />
+                <span
+                  class="ms-Button-textContainer textContainer-122"
+                >
+                  <span
+                    class="ms-Button-label label-124"
+                    id="id__0"
+                  >
+                    Download
+                  </span>
+                </span>
+              </span>
+            </a>
+          </div>
+          <div
+            class="ms-StackItem css-119"
+          >
+            <a
+              class="ms-Button ms-Button--default styled-Button root-128"
+              data-is-focusable="true"
+              href="https://github.com/rizz-wan/mocktail#mocktail"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <span
+                class="ms-Button-flexContainer flexContainer-121"
+                data-automationid="splitbuttonprimary"
+              >
+                <i
+                  aria-hidden="true"
+                  class="ms-Icon root-105 ms-Button-icon icon-123"
+                  data-icon-name="Documentation"
+                />
+                <span
+                  class="ms-Button-textContainer textContainer-122"
+                >
+                  <span
+                    class="ms-Button-label label-124"
+                    id="id__3"
+                  >
+                    Documentation
+                  </span>
+                </span>
+              </span>
+            </a>
+          </div>
+          <div
+            class="ms-StackItem css-119"
+          >
+            <a
+              class="ms-Button ms-Button--primary styled-Button root-120"
+              data-is-focusable="true"
+              href="https://github.com/rizz-wan/mocktail"
+              rel="noreferrer noopener"
+              target="_blank"
+            >
+              <span
+                class="ms-Button-flexContainer flexContainer-121"
+                data-automationid="splitbuttonprimary"
+              >
+                <i
+                  aria-hidden="true"
+                  class="ms-Icon root-105 ms-Button-icon icon-123"
+                  data-icon-name="OpenSource"
+                />
+                <span
+                  class="ms-Button-textContainer textContainer-122"
+                >
+                  <span
+                    class="ms-Button-label label-124"
+                    id="id__6"
+                  >
+                    Source
+                  </span>
+                </span>
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div
+        class="root-115"
+      >
+        <div
+          aria-orientation="horizontal"
+          class="content-116"
+          role="separator"
+        />
+      </div>
+      <h2>
+        Bundled Enhancements
+      </h2>
+      <ul
+        class="css-111"
+      >
+        <li>
+          <a
+            class="ms-Link root-129"
+            href="https://www.typescriptlang.org/"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              Typescript
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           enabled for better dev experience.
+        </li>
+        <li>
+          With 
+          <a
+            class="ms-Link root-129"
+            href="https://developer.microsoft.com/en-us/fluentui#/controls/web"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              Fluent UI's
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           robust, up-to-date web controls, save yourself from creating atomic and molecular UI controls from scratch.
+        </li>
+        <li>
+          <a
+            class="ms-Link root-129"
+            href="https://uifabricicons.azurewebsites.net/"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              Office UI Fabric Icons
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           support to get access to huge set of awesome icons.
+        </li>
+        <li>
+          With 
+          <a
+            class="ms-Link root-129"
+            href="https://www.npmjs.com/package/sass-loader"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              sass-loader
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           load a Sass/SCSS file and compiles it to CSS.
+        </li>
+        <li>
+          <a
+            class="ms-Link root-129"
+            href="https://aka.ms/themedesigner"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              Theming
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           infra.
+        </li>
+        <li>
+          Uses 
+          <a
+            class="ms-Link root-129"
+            href="https://www.npmjs.com/package/sass-loader"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              React Helmet
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           to add customized headers for each page, if required, for better SEO.
+        </li>
+        <li>
+          With 
+          <a
+            class="ms-Link root-129"
+            href="https://www.npmjs.com/package/react-router-dom"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              React Router DOM
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           use the power of 
+          <a
+            class="ms-Link root-129"
+            href="https://reactrouter.com/"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              React Router
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           in web.
+        </li>
+        <li>
+          A Predictable, performant and flexible state container using 
+          <a
+            class="ms-Link root-129"
+            href="https://www.npmjs.com/package/react-redux"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              react-redux
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+          .
+        </li>
+        <li>
+          Dynamically load redux reducers and redux-saga sagas as needed, instead of loading them all upfront using 
+          <a
+            class="ms-Link root-129"
+            href="https://www.npmjs.com/package/redux-injectors"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              redux-injectors
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+          .
+        </li>
+        <li>
+          <a
+            class="ms-Link root-129"
+            href="https://www.npmjs.com/package/connected-react-router"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              Connected React Router
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           to synchronize your router state with redux store.
+        </li>
+        <li>
+          App level store with useful enhancers and middleware such as 
+          <a
+            class="ms-Link root-129"
+            href="https://redux-saga.js.org/"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              Redux-Saga
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           and 
+          <a
+            class="ms-Link root-129"
+            href="https://www.npmjs.com/package/redux-logger"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              Logger for Redux
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+          .
+        </li>
+        <li>
+          Configured completely to be a first-class 
+          <a
+            class="ms-Link root-129"
+            href="https://developers.google.com/web/progressive-web-apps/"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              Progressive Web App
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+          , however the 
+          <strong>
+            offline/cache-first
+          </strong>
+           behavior is disabled by default as it comes with some 
+          <a
+            class="ms-Link root-129"
+            href="https://github.com/facebook/create-react-app/issues/2398"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              pitfalls
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           and should be enabled consciously.
+          <div
+            class="ms-MessageBar ms-MessageBar-multiline my-2 root-130"
+          >
+            <div
+              class="ms-MessageBar-content content-131"
+            >
+              <div
+                aria-hidden="true"
+                class="ms-MessageBar-icon iconContainer-132"
+              >
+                <i
+                  aria-hidden="true"
+                  class="icon-139"
+                  data-icon-name="Info"
+                />
+              </div>
+              <div
+                aria-live="polite"
+                class="ms-MessageBar-text text-134"
+                id="MessageBar9"
+                role="status"
+              >
+                <span
+                  class="ms-MessageBar-innerText innerText-135"
+                />
+              </div>
+            </div>
+          </div>
+        </li>
+        <li>
+          A performance relayer, using 
+          <a
+            class="ms-Link root-129"
+            href="https://github.com/GoogleChrome/web-vitals"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              web-vitals
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+          , that allows you to measure and analyze the performance of your application using different metrics.
+          <div
+            class="ms-MessageBar ms-MessageBar-multiline my-2 root-130"
+          >
+            <div
+              class="ms-MessageBar-content content-131"
+            >
+              <div
+                aria-hidden="true"
+                class="ms-MessageBar-icon iconContainer-132"
+              >
+                <i
+                  aria-hidden="true"
+                  class="icon-139"
+                  data-icon-name="Info"
+                />
+              </div>
+              <div
+                aria-live="polite"
+                class="ms-MessageBar-text text-134"
+                id="MessageBar10"
+                role="status"
+              >
+                <span
+                  class="ms-MessageBar-innerText innerText-135"
+                />
+              </div>
+            </div>
+          </div>
+        </li>
+        <li>
+          World class testing environment with 
+          <a
+            class="ms-Link root-129"
+            href="https://jestjs.io/"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              jest
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+          , 
+          <a
+            class="ms-Link root-129"
+            href="https://github.com/testing-library/jest-dom#with-typescript"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              jest-dom
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           and 
+          <a
+            class="ms-Link root-129"
+            href="https://testing-library.com/docs/react-testing-library/intro"
+            rel="noreferrer noopener"
+            target="_blank"
+          >
+            <strong>
+              react testing library
+            </strong>
+            <i
+              aria-hidden="true"
+              class="ms-Icon root-105"
+              data-icon-name="NavigateExternalInline"
+            />
+          </a>
+           for faster and reliable development.
+        </li>
+      </ul>
+      <div
+        class="root-115"
+      >
+        <div
+          aria-orientation="horizontal"
+          class="content-116"
+          role="separator"
+        />
+      </div>
+      <div
+        class="ms-StackItem css-140"
+      >
+        <h2>
+          Want to contribute?
+        </h2>
+      </div>
+      <a
+        class="ms-Button ms-Button--primary styled-Button root-120"
+        data-is-focusable="true"
+        href="https://github.com/rizz-wan/mocktail#feedback--contribution"
+        rel="noreferrer noopener"
+        target="_blank"
+      >
+        <span
+          class="ms-Button-flexContainer flexContainer-121"
+          data-automationid="splitbuttonprimary"
+        >
+          <i
+            aria-hidden="true"
+            class="ms-Icon root-105 ms-Button-icon icon-123"
+            data-icon-name="CodeEdit"
+          />
+          <span
+            class="ms-Button-textContainer textContainer-122"
+          >
+            <span
+              class="ms-Button-label label-124"
+              id="id__11"
+            >
+              Start Contributing
+            </span>
+          </span>
+        </span>
+      </a>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
