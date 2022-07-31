@@ -1,6 +1,8 @@
 @import '~office-ui-fabric-core/dist/css/fabric.min.css';
 @import './styles/base.scss';
 @import './styles/variables.scss';
+@import './utils/theme/light.scss';
+@import './utils/theme/dark.scss';
 
 body {
   margin: 0;
@@ -26,4 +28,27 @@ code {
 ::after {
   transition: color 0.25s, background-color 0.25s, filter 0.25s,
     border-color 0.25s;
+}
+
+/* Tip: Customize the scrollbar
+        or 
+        You can completely remove to get the default scrollbar
+*/
+*::-webkit-scrollbar {
+  width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+  background-color: var(--white);
+}
+
+*::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, var(--white), var(--themePrimary));
+  border-radius: 24px;
+  &:hover {
+    background: linear-gradient(to bottom, var(--white), var(--themeDark));
+  }
+  &:active {
+    background: linear-gradient(to bottom, var(--white), var(--themeDarker));
+  }
 }

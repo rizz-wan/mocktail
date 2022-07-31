@@ -10,6 +10,8 @@ export const themeReducer: Reducer<ITheme, ThemeActions> = (
 ): ITheme => {
   switch (action.type) {
     case types.UpdateTheme:
+      document.body.classList.toggle(ThemeModes.Light);
+      document.body.classList.toggle(ThemeModes.Dark);
       return theme.name === ThemeModes.Dark
         ? themeModes.light
         : themeModes.dark;
