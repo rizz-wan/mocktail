@@ -3,15 +3,12 @@ import Main from './app/main';
 import { Provider } from 'react-redux';
 import { configureStoreWithMiddleware, initialRootState } from './store';
 import { Router } from 'react-router';
-import { defaultTheme, history, ThemeModes } from './utils';
+import { history, setInitialThemeClassToBody } from './utils';
 
 function App() {
   initializeIcons();
 
-  /*Initialize body class with default theme*/
-  document.body.classList.add(
-    defaultTheme.isInverted ? ThemeModes.Dark : ThemeModes.Light
-  );
+  setInitialThemeClassToBody();
 
   const store = configureStoreWithMiddleware(initialRootState);
 

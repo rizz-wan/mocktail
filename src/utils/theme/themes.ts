@@ -100,3 +100,16 @@ export const defaultTheme =
 export function GetCurrentTheme(): ITheme {
   return useSelector((state: IRootState) => state.theme);
 }
+
+export function setInitialThemeClassToBody() {
+  let documentClassList = document.body.classList;
+  if (
+    !(
+      documentClassList.contains(ThemeModes.Dark) ||
+      documentClassList.contains(ThemeModes.Light)
+    )
+  )
+    documentClassList.add(
+      defaultTheme.isInverted ? ThemeModes.Dark : ThemeModes.Light
+    );
+}
