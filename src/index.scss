@@ -18,18 +18,6 @@ code {
     monospace;
 }
 
-/* Tip: Customize the transition duration of the theme
-        You can also add other attributes you are using the theme with
-        or 
-        You can completely remove to instantly change the theme
-*/
-*,
-::before,
-::after {
-  transition: color 0.25s, background-color 0.25s, filter 0.25s,
-    border-color 0.25s;
-}
-
 /* Tip: Customize the scrollbar
         or 
         You can completely remove to get the default scrollbar
