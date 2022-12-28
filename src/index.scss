@@ -31,12 +31,10 @@ code {
 }
 
 *::-webkit-scrollbar-thumb {
-  background: linear-gradient(to bottom, var(--white), var(--themePrimary));
+  background: var(--neutralTertiary);
+  border: 2px solid var(--white);
   border-radius: 24px;
-  &:hover {
-    background: linear-gradient(to bottom, var(--white), var(--themeDark));
-  }
   &:active {
-    background: linear-gradient(to bottom, var(--white), var(--themeDarker));
+    background: var(--neutralSecondary);
   }
 }
