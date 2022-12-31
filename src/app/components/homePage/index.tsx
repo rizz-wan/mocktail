@@ -175,7 +175,7 @@ export class HomePage extends React.Component<IHomePageProps> {
                   }
                   <ExternalLink
                     text='index.tsx'
-                    linkTo='https://github.com/rizz-wan/mocktail/blob/main/src/index.tsx'
+                    linkTo='https://github.com/irizwankhan/mocktail/blob/main/src/index.tsx'
                   />
                 </Text>
                 {':'}
@@ -216,7 +216,7 @@ export class HomePage extends React.Component<IHomePageProps> {
                   }
                   <ExternalLink
                     text='index.tsx'
-                    linkTo='https://github.com/rizz-wan/mocktail/blob/main/src/index.tsx'
+                    linkTo='https://github.com/irizwankhan/mocktail/blob/main/src/index.tsx'
                   />
                   {':'}
                 </Text>

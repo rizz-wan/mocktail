@@ -17,7 +17,7 @@ This project was bootstrapped with [**Create React App**](https://github.com/fac
 - App level store with useful enhancers and middleware such as [**Redux-Saga**](https://redux-saga.js.org/) and [**Logger for Redux**](https://www.npmjs.com/package/redux-logger).
 - Configured completely to be a first-class [**Progressive Web App**](https://developers.google.com/web/progressive-web-apps/), however the **offline/cache-first** behavior is disabled by default as it comes with some [**pitfalls**](https://github.com/facebook/create-react-app/issues/2398) and should be enabled consciously.
 
-  > To enable caching mode, simply switch serviceWorker.unregister() to serviceWorker.register() in [**index.tsx**](https://github.com/rizz-wan/mocktail/blob/main/src/index.tsx):
+  > To enable caching mode, simply switch serviceWorker.unregister() to serviceWorker.register() in [**index.tsx**](https://github.com/irizwankhan/mocktail/blob/main/src/index.tsx):
 
   ```diff
   - serviceWorkerRegistration.unregister();
@@ -26,7 +26,7 @@ This project was bootstrapped with [**Create React App**](https://github.com/fac
 
 - A performance relayer, using [**web-vitals**](https://github.com/GoogleChrome/web-vitals), that allows you to measure and analyze the performance of your application using different metrics.
 
-  > To measure any of the supported metrics, just pass a function into the reportWebVitals function in [**index.tsx**](https://github.com/rizz-wan/mocktail/blob/main/src/index.tsx):
+  > To measure any of the supported metrics, just pass a function into the reportWebVitals function in [**index.tsx**](https://github.com/irizwankhan/mocktail/blob/main/src/index.tsx):
 
   ```jsx
   reportWebVitals(console.log);
@@ -40,7 +40,7 @@ Use this template to start miles ahead in your next venture with the power of aw
 
 - Simply remove the chunks marked with `Chore:` marker, they are there just for reference and help you unblock should you encounter any blockers.
 - Explore and verify the chunks marked with `Tip:` marker.
-- Alternatively you can use [**mocktail-air**](https://github.com/rizz-wan/mocktail-air) which has most of the cleanup work done already.
+- Alternatively you can use [**mocktail-air**](https://github.com/irizwankhan/mocktail-air) which has most of the cleanup work done already.
 
 ## Available Scripts
 
@@ -125,9 +125,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Feedback & Contribution
 
-- If you find any bugs or issues please report them on the [**Issue Tracker**](https://github.com/rizz-wan/mocktail/issues).
+- If you find any bugs or issues please report them on the [**Issue Tracker**](https://github.com/irizwankhan/mocktail/issues).
 
-> If you would like to contribute to this project please consider [**forking this repo**](https://github.com/rizz-wan/mocktail/fork), making your changes and then creating a new [**Pull Request**](https://github.com/rizz-wan/mocktail/pulls) back to the main code repository.
+> If you would like to contribute to this project please consider [**forking this repo**](https://github.com/irizwankhan/mocktail/fork), making your changes and then creating a new [**Pull Request**](https://github.com/irizwankhan/mocktail/pulls) back to the main code repository.
 
 ## License
 

@@ -10,7 +10,7 @@ export class Warning extends React.Component {
         <br />
         {'Make sure to set the correct parameters in '}
         <Link
-          href='https://github.com/rizz-wan/mocktail/blob/master/src/api/connect.php'
+          href='https://github.com/irizwankhan/mocktail/blob/master/src/api/connect.php'
           target='_blank'
           rel='noreferrer noopener'
         >
@@ -18,7 +18,7 @@ export class Warning extends React.Component {
         </Link>
         {' file and import'}
         <Link
-          href='https://github.com/rizz-wan/mocktail/blob/master/src/api/colors.sql'
+          href='https://github.com/irizwankhan/mocktail/blob/master/src/api/colors.sql'
           target='_blank'
           rel='noreferrer noopener'
         >
