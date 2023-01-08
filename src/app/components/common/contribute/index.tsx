@@ -14,7 +14,7 @@ export class Contribute extends React.Component {
           iconProps={{ iconName: 'CodeEdit' }}
           className='styled-Button'
           text='Start Contributing'
-          href='https://github.com/irizwankhan/mocktail#feedback--contribution'
+          href='https://github.com/rizz-wan/mocktail#feedback--contribution'
           target='_blank'
           rel='noreferrer noopener'
         />

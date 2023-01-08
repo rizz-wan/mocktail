@@ -12,7 +12,7 @@ export class ButtonGroup extends React.Component {
             iconProps={{ iconName: 'CloudDownload' }}
             className='styled-Button'
             text='Download'
-            href='https://github.com/irizwankhan/mocktail/archive/refs/heads/master.zip'
+            href='https://github.com/rizz-wan/mocktail/archive/refs/heads/master.zip'
             target='_blank'
             rel='noreferrer noopener'
           />
@@ -22,7 +22,7 @@ export class ButtonGroup extends React.Component {
             iconProps={{ iconName: 'Documentation' }}
             className='styled-Button'
             text='Documentation'
-            href='https://github.com/irizwankhan/mocktail#mocktail'
+            href='https://github.com/rizz-wan/mocktail#mocktail'
             target='_blank'
             rel='noreferrer noopener'
           />
@@ -32,7 +32,7 @@ export class ButtonGroup extends React.Component {
             iconProps={{ iconName: 'OpenSource' }}
             className='styled-Button'
             text='Source'
-            href='https://github.com/irizwankhan/mocktail'
+            href='https://github.com/rizz-wan/mocktail'
             target='_blank'
             rel='noreferrer noopener'
           />
